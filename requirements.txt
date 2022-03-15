@@ -31,4 +31,4 @@ yellowbrick
 smart_open[s3]
 pandas==1.3.4
 branca==0.3.1
-Jinja2==2.11.3
+Jinja2==3.0.3
