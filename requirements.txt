@@ -7,7 +7,8 @@ flask-jwt
 fuzzywuzzy
 geocoder
 geopy
-googlemaps
+googlemaps 
+geopandas
 imbalanced-learn
 jsbeautifier
 leafmap
